@@ -64,6 +64,7 @@ jobs:
   deploy:
     # available images: https://github.com/actions/runner-images#available-images
     runs-on: ubuntu-latest
+    timeout-minutes: 15 # normally finishes in ~90s; guards against runner hangs
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v7
