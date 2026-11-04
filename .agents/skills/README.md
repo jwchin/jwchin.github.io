@@ -9,9 +9,9 @@ Any agent can invoke any skill. Skills are agent-agnostic - they are procedures,
 
 ## All Skills
 
-| Skill | Sub-skills | Purpose |
-|---|---|---|
-| [`al-folio-bootstrap`](./al-folio-bootstrap/SKILL.md) | - | Create, configure, or personalize a new al-folio v1.x website (config, _data, content c... |
-| [`al-folio-v1-migration`](./al-folio-v1-migration/SKILL.md) | - | Migrate an existing customized al-folio fork to v1.x. |
+| Skill                                                       | Sub-skills | Purpose                                                                                    |
+| ----------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------ |
+| [`al-folio-bootstrap`](./al-folio-bootstrap/SKILL.md)       | -          | Create, configure, or personalize a new al-folio v1.x website (config, _data, content c... |
+| [`al-folio-v1-migration`](./al-folio-v1-migration/SKILL.md) | -          | Migrate an existing customized al-folio fork to v1.x.                                      |
 
 ---
