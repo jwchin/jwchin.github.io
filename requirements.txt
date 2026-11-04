@@ -1,0 +1,6 @@
+nbconvert
+pyyaml
+# rendercv 2.7+ removed the cv.yml fields (label, image, summary, address) that the
+# template's CV format uses; pin to 2.6 until _data/cv.yml is migrated.
+rendercv[full]==2.6.*
+scholarly
