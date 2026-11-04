@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Jing Wei
-middle_name: (Nick)
-last_name: Chin
+first_name: Nick
+middle_name:
+last_name: CHIN
 contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Health AI researcher and technology entrepreneur working at the intersection of computer vision,
