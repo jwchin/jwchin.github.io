@@ -1,9 +1,45 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"Sensors":
+  url: https://www.mdpi.com/journal/sensors
+  color: "#0066B3"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"Healthcare":
+  url: https://www.mdpi.com/journal/healthcare
+  color: "#0E9F6E"
 
-"Vision":
-  color: "#009f36"
+"Bioengineering":
+  url: https://www.mdpi.com/journal/bioengineering
+  color: "#6B4FA0"
+
+"BSPC":
+  url: https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control
+  color: "#D97706"
+
+"AEM":
+  url: https://onlinelibrary.wiley.com/journal/15532712
+  color: "#B91C1C"
+
+"AnnEM":
+  url: https://www.annemergmed.com/
+  color: "#C2410C"
+
+"CVPRW":
+  url: https://cvpr.thecvf.com/
+  color: "#1A5DA6"
+
+"WACV":
+  url: https://wacv.thecvf.com/
+  color: "#6D28D9"
+
+"ICMI":
+  url: https://icmi.acm.org/
+  color: "#0B5394"
+
+"CHASE":
+  color: "#37474F"
+
+"IEA":
+  url: https://www.iea.cc/
+  color: "#A61C1C"
+
+"BME2020":
+  color: "#52796F"

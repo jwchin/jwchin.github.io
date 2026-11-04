@@ -19,3 +19,20 @@ vendor
 # Python bytecode from bin/ helper scripts
 __pycache__/
 *.pyc
+
+# Personal working files — never commit these
+nick-profile.md
+.ai/
+.memory/
+# personal-assistant v7 managed dirs (install.py: vendored .ai/.prds + scratch .tmp/.reports/.openchamber)
+.prds/
+.tmp/
+.reports/
+.openchamber/
+# personal-assistant managed .memory scratch (install.py: update intake only)
+.memory/update-config.json
+.memory/update-request/
+# personal-assistant v7 managed .opencode wiring (install.py: commands mirror + agent stubs)
+.opencode/
+# personal-assistant v8 managed .zcode wiring (install.py: skills+commands mirror)
+.zcode/

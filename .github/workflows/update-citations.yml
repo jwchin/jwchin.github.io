@@ -1,10 +1,14 @@
 name: Update Google Scholar Citations
 
 on:
-  schedule:
-    - cron: "0 0 * * 1" # Monday
-    - cron: "0 0 * * 3" # Wednesday
-    - cron: "0 0 * * 5" # Friday
+  # Schedule disabled (2026-11-04): this workflow needs a repo secret `PAT`
+  # (Settings > Secrets and variables > Actions) and a Google Scholar ID configured
+  # in _config.yml before it can succeed. To re-enable: set those up, then
+  # uncomment the cron block below.
+  # schedule:
+  #   - cron: "0 0 * * 1" # Monday
+  #   - cron: "0 0 * * 3" # Wednesday
+  #   - cron: "0 0 * * 5" # Friday
   workflow_dispatch:
 
 jobs:
