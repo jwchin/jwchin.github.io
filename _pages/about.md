@@ -6,7 +6,7 @@ subtitle: Researcher · Entrepreneur · Lecturer
 
 profile:
   align: right
-  image: # prof_pic.jpg — add a photo to assets/img/ and set the name here
+  image: # prof_pic.jpg: add a photo to assets/img/ and set the name here
   image_circular: false # crops the image to make it circular
   more_info: >
 
@@ -25,7 +25,7 @@ latest_posts:
 ---
 
 I am a health AI researcher and technology entrepreneur working at the intersection of computer
-vision, machine learning, and non-invasive physiological monitoring — building contactless,
+vision, machine learning, and non-invasive physiological monitoring, building contactless,
 medical-grade vital-sign sensing from ordinary cameras. I am Co-Founder & CTO of
 [PanopticAI](https://panoptic.ai/), a Hong Kong startup developing camera-based vital-sign
 monitoring (software as a medical device). I have also lectured part-time at HKUST.
@@ -39,8 +39,8 @@ departments. See my [publications]({{ '/publications/' | relative_url }}) for de
 
 All degrees from The Hong Kong University of Science and Technology (HKUST).
 
-| Years     | Degree | Field & notes                                                                                                                                                             |
-| --------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2016–2021 | Ph.D.  | Industrial Engineering & Logistics Management. Thesis: _Online Decision Analytics with Deep Learning: Non-Invasive Fever Screening_ (supervisor: Prof. Richard H. Y. So). |
-| 2013–2014 | M.Sc.  | Telecommunication.                                                                                                                                                        |
-| 2010–2013 | B.Eng. | Electronic Engineering (Information & Communications), 2nd Class Honours (Division I). Summer 2012 exchange, Sungkyunkwan University.                                     |
+| Degree | Field & notes                                                                                                                                                             |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ph.D.  | Industrial Engineering & Logistics Management. Thesis: _Online Decision Analytics with Deep Learning: Non-Invasive Fever Screening_ (supervisor: Prof. Richard H. Y. So). |
+| M.Sc.  | Telecommunication.                                                                                                                                                        |
+| B.Eng. | Electronic Engineering (Information & Communications). Summer 2012 exchange, Sungkyunkwan University.                                                                     |

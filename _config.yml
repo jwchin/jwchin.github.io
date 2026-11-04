@@ -9,7 +9,7 @@ last_name: CHIN
 contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Health AI researcher and technology entrepreneur working at the intersection of computer vision,
-  machine learning, and non-invasive physiological monitoring — building contactless vital-sign
+  machine learning, and non-invasive physiological monitoring, building contactless vital-sign
   sensing from ordinary cameras.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a>.
@@ -40,7 +40,7 @@ protect_email: false
 
 # Off by default: the free public github-profile-trophy instance is disabled
 # (its Vercel deployment answers HTTP 402 / DEPLOYMENT_DISABLED), so every trophy
-# image 404s. The project itself is still open source and free — self-host it and
+# image 404s. The project itself is still open source and free; self-host it and
 # point external_services.github_profile_trophy_url at your instance, then set
 # enabled: true. See docs/CUSTOMIZE.md.
 repo_trophies:
